@@ -39,5 +39,5 @@ GyaanGhar is a Laravel-based educational platform where teachers can register, c
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/gyaanghar.git
+git clone https://github.com/takshasalaliya/gyaanghar.git
 cd gyaanghar
